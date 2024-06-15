@@ -1,6 +1,6 @@
-.deps/
-scripts
-tests
+/.deps
+/scripts
+/tests
 .prettierrc.json
 README.txt
 .git
