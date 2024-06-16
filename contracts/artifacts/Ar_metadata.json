@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "greet",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/12_ArrRemoveByShifting.sol": "Ar"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/12_ArrRemoveByShifting.sol": {
+			"keccak256": "0x7bc4d34d3776da0c449557822e9d1d29bad01a8dd99c84ed2b73b34545a7203f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://89d320de3b2b93d19e5a0b876b09c42fa746c0776440b2d19083250fd51f37ae",
+				"dweb:/ipfs/QmPtvqTrnLPuyZ4ukrkxpDVCP9fgXKHz4VyDVs3uNYDg9U"
+			]
+		}
+	},
+	"version": 1
+}

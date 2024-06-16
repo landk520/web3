@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "greet",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/8_EtherUnits.sol": "EitherU"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/8_EtherUnits.sol": {
+			"keccak256": "0xa022c5f5719113b85134844e24a0b4c4c106e2721af09f731d85c82d5e5582aa",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://fce1bc2bb16f4438868bdf8e74925162814580844fd7105e4264dd1f25e98f6d",
+				"dweb:/ipfs/QmcmG5k997mcAc9qYGqPSE5g9n5ZT9Dy16eF9MVHUKESb3"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "greet",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/12_ArrRemoveByShifting.sol": "ArrayRem"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/12_ArrRemoveByShifting.sol": {
+			"keccak256": "0xca5b8c418e327312c42c7b3ad632da6e32713014fdbd6a036df633ff5acc6925",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bee4a5270966d47236d3dea921302ba028aae3fe5a4486245afac27b4d5e3811",
+				"dweb:/ipfs/QmQ8ifvr7QvtFeSScRm4tQMmPT9Q2Jo68ZtTnuWmnWn5PT"
+			]
+		}
+	},
+	"version": 1
+}

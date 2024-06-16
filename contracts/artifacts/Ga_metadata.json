@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "greet",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/9_Gas.sol": "Ga"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/9_Gas.sol": {
+			"keccak256": "0xf0aea96f9612f4236b771ffa664698f1235ff63c31c43f2e4af824d0e5d4b339",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://295604ebd482a9f6c4aeab0ed7225ee2e73e9f68cebc6850158d1a06b2755efc",
+				"dweb:/ipfs/QmfVyMPFkGquhAN8fsYz2w7nwsxSfvYPVgGvf5dBHAxek1"
+			]
+		}
+	},
+	"version": 1
+}
