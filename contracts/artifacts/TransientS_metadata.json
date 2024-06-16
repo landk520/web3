@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/16_TransientStorage.sol": "HelloWorld"
+			"contracts/16_TransientStorage.sol": "TransientS"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"contracts/16_TransientStorage.sol": {
-			"keccak256": "0x29168e9dd070a0be5638c5f6f511b52b3617939de5dbf7b153b82e3ce335830f",
+			"keccak256": "0x1280226bed6d507b0d03379f170a2f3313c3f289cdfcb544b1934613524287a2",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://e5324917f00b91cc9deee834ab48ac481671e2413b409790b44cd7623734474b",
-				"dweb:/ipfs/QmdUkgVc3i7TsXRhietz3GazKxgNxmmFmj2d6W6NFCcJ1Q"
+				"bzz-raw://76aa073d6aacba09068600eb300523daefdec7cc25a5d121de351db2ed82c50a",
+				"dweb:/ipfs/QmU8twtqfvLv1PMnzWXHcot1Thcdbs2dBfRkv9GEDJ4HF5"
 			]
 		}
 	},

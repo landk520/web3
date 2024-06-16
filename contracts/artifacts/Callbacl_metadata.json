@@ -4,21 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "greet",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -32,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/16_TransientStorage.sol": "HelloWorld"
+			"contracts/16_TransientStorage.sol": "Callbacl"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -47,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/16_TransientStorage.sol": {
-			"keccak256": "0x29168e9dd070a0be5638c5f6f511b52b3617939de5dbf7b153b82e3ce335830f",
+			"keccak256": "0x0ec7f6d549d22e2e7d33f9b8fb8fe468813ac064abfe4d8d5d3cd85d035a69b5",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://e5324917f00b91cc9deee834ab48ac481671e2413b409790b44cd7623734474b",
-				"dweb:/ipfs/QmdUkgVc3i7TsXRhietz3GazKxgNxmmFmj2d6W6NFCcJ1Q"
+				"bzz-raw://4dec7c242ebb7729c2ca5cf8c0fd8d30b8e4b34fff25edcdfb04f45959043055",
+				"dweb:/ipfs/QmPbAUCQFMz6TXYdBYUAq5Z6KMZdgrB3D97jCr3sgf3gWA"
 			]
 		}
 	},

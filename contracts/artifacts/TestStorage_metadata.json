@@ -7,12 +7,19 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "greet",
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "val",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "uint256",
 						"name": "",
-						"type": "string"
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "view",
@@ -32,7 +39,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/16_TransientStorage.sol": "HelloWorld"
+			"contracts/16_TransientStorage.sol": "TestStorage"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -47,11 +54,11 @@
 	},
 	"sources": {
 		"contracts/16_TransientStorage.sol": {
-			"keccak256": "0x29168e9dd070a0be5638c5f6f511b52b3617939de5dbf7b153b82e3ce335830f",
+			"keccak256": "0xd3ed07097aea056a0b789b150111f7df112fbe114a3e66c03f13834f5f4f1ae7",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://e5324917f00b91cc9deee834ab48ac481671e2413b409790b44cd7623734474b",
-				"dweb:/ipfs/QmdUkgVc3i7TsXRhietz3GazKxgNxmmFmj2d6W6NFCcJ1Q"
+				"bzz-raw://3e907805b5f05811aa6450d33875a7807f99f02481a7d47a1a016387deb563c0",
+				"dweb:/ipfs/Qmb9uyvTkkAzaQDEfNx6ZXzoKcmdzdKQMjqYTSvV7uGsML"
 			]
 		}
 	},
