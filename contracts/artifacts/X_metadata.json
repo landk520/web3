@@ -6,8 +6,19 @@
 	"output": {
 		"abi": [
 			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
 				"inputs": [],
-				"name": "greet",
+				"name": "name",
 				"outputs": [
 					{
 						"internalType": "string",
@@ -32,7 +43,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/22_Constructors.sol": "HelloWorld"
+			"contracts/22_Constructors.sol": "X"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -47,11 +58,11 @@
 	},
 	"sources": {
 		"contracts/22_Constructors.sol": {
-			"keccak256": "0x9fedc54ee649ce14faf53d2fcfffa4f05a3da172ec51fa7e18a57a87f0d81e66",
+			"keccak256": "0x4aa33dbbbfd2e19759d6c66794a3409c9d3d6176c6f6899841118f2423d420fe",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://d5534d721828229159f1ec998ce3b6d823f9493b4e304da728096feebc17172e",
-				"dweb:/ipfs/QmZ9w4shsTKgA8PjbXnQc8K1hT5xS9wUrSgHLTGr8WkDcB"
+				"bzz-raw://78ec06e34fe0a2b3a3dd866d4cafb4670494a4aad22c0ea0da28404c6fd0ea5f",
+				"dweb:/ipfs/QmYJWAi8rerjQdftZAmTRvgmVV7F6n2Uzw1Nj73hRdXD6T"
 			]
 		}
 	},

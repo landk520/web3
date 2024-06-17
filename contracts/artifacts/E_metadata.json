@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/22_Constructors.sol": "HelloWorld"
+			"contracts/21_Events.sol": "E"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -46,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/22_Constructors.sol": {
-			"keccak256": "0x9fedc54ee649ce14faf53d2fcfffa4f05a3da172ec51fa7e18a57a87f0d81e66",
+		"contracts/21_Events.sol": {
+			"keccak256": "0x9b8925ceb8773ef0adcfd4654c462f1d116b203c7b26c582d7e4c368d35c5441",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://d5534d721828229159f1ec998ce3b6d823f9493b4e304da728096feebc17172e",
-				"dweb:/ipfs/QmZ9w4shsTKgA8PjbXnQc8K1hT5xS9wUrSgHLTGr8WkDcB"
+				"bzz-raw://159a8b86edc3aa8c50d93e817b73e76c6e2641822dfc88d14c0860b67aa3fd1e",
+				"dweb:/ipfs/Qmeq47hmT9srWroSg4Tbus6S8JBRk1iAWZag4ZzSFJsbmQ"
 			]
 		}
 	},
